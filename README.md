@@ -1,24 +1,22 @@
-# management
+# vue2+element 简易后台管理系统
 
-## Project setup
+## 下载代码到本地
 ```
-npm install
+git clone
 ```
 
-### Compiles and hot-reloads for development
+### 进入项目
 ```
+cd 项目路径
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 首页  
 
-### Lints and fixes files
-```
-npm run lint
-```
+
+![image](https://user-images.githubusercontent.com/71831599/174595757-911b2d80-b34c-4fe7-8e3d-6ad782ecb18b.png)
+
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
